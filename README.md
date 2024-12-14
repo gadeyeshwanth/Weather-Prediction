@@ -49,4 +49,4 @@ You can check the live demo of the project here:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   [git clone https://github.com/yourusername/your-repository-name.git](https://github.com/gadeyeshwanth/Weather-Prediction-)

@@ -16,7 +16,7 @@ This is a simple **Weather App Project** built using **HTML**, **CSS**, **JavaSc
 ## Project Demo 🚀
 
 You can check the live demo of the project here:
-[Live Demo Link](https://gadeyeshwanth.github.io/Weather-Prediction-/)<!-- Replace # with your GitHub Pages link -->
+[Live Demo Link](https://gadeyeshwanth.github.io/Weather-Prediction/)<!-- Replace # with your GitHub Pages link -->
 
 ---
 
@@ -49,4 +49,4 @@ You can check the live demo of the project here:
 
 1. **Clone the Repository**:
    ```bash
-   (https://github.com/gadeyeshwanth/Weather-Prediction-)
+   (https://github.com/gadeyeshwanth/Weather-Prediction.git)

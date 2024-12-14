@@ -16,7 +16,7 @@ This is a simple **Weather App Project** built using **HTML**, **CSS**, **JavaSc
 ## Project Demo 🚀
 
 You can check the live demo of the project here:
-[Live Demo Link](#) <!-- Replace # with your GitHub Pages link -->
+[Live Demo Link]([#](https://gadeyeshwanth.github.io/Weather-Prediction/)) <!-- Replace # with your GitHub Pages link -->
 
 ---
 
